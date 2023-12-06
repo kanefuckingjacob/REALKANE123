@@ -5,8 +5,8 @@ I am **Kane Trussler**, a passionate creator navigating the vast world of techno
 ## About Me
 
 - **Name:** Kane Trussler
-- **Passion:** Technology and Development
-- **Operating System:** Linux enthusiast
+- **Passion:** Technology and Entruepenuering
+- **Operating System:** Ubuntu & Debian Enjoyer
 
 ## My Companies
 

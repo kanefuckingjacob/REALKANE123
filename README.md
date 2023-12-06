@@ -22,8 +22,8 @@ Feel free to explore more about my companies on my [portfolio](https://kanetruss
 
 You be the judge! Explore my GitHub stats and language proficiency below:
 
-[![Kane Trussler GitHub Stats](https://github-readme-stats.vercel.app/api?username=REALKANE123&show_icons=true&theme=dracula)](https://github.com/REALKANE123)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REALKANE123&layout=compact&theme=dracula&langs_count=8)](https://github.com/REALKANE123)
+[![Kane Trussler GitHub Stats](https://github-readme-stats.vercel.app/api?username=REALKANE123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=codeSTACKr)](https://github.com/REALKANE123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REALKANE123&layout=compact&theme=codeSTACKr&langs_count=8)](https://github.com/REALKANE123)
 
 ## Languages and Tools
 

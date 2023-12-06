@@ -29,34 +29,17 @@ You be the judge! Explore my GitHub stats and language proficiency below:
 
 Here are some of the languages and tools I work with:
 
-- Android
-- Arduino
-- Bash
-- C++
 - CSS3
-- Docker
-- Express.js
-- Gatsby.js
 - Google Cloud
 - Git
-- GraphQL
 - HTML5
 - JavaScript
-- Laravel
 - Linux
 - MariaDB
 - MySQL
-- NestJS
-- Next.js
 - Nginx
 - Node.js
 - PHP
 - Postman
-- React
-- React Native
-- Sass
-- Tailwind CSS
-- TypeScript
-- Vagrant
 
 Explore more about my projects and contributions on [GitHub](https://github.com/REALKANE123).

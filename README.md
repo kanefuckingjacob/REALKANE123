@@ -14,7 +14,9 @@ I am involved with several companies, each contributing to different aspects of 
 
 1. [ArkadeONE](https://arkade.one) - Director @ ArkadeONE launches on 24/04/24.
 2. [KaneNET](https://kanenet.cloud) - Service Administrator @ KaneNET launches on 02/02/2024.
-3. [GameNest](https://gamenest.pro) - Director @ GameNest @ Early Developement
+3. [GameNest](https://gamenest.pro) - Director @ GameNest @ Early Development
+4. [Escape Boats](https://escape.boats) - Founder @ Escape Boats @ Financial Advisory
+5. [Webod Store](https://webod.store) - Lead Management @ Webod Store @ Website Development & Tiktok CBP
 
 Feel free to explore more about my companies on my [portfolio](https://kanetrussler.com).
 

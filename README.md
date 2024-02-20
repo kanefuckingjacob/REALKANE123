@@ -12,11 +12,11 @@ I am **Kane Trussler**, a passionate creator navigating the vast world of techno
 
 I am involved with several companies, each contributing to different aspects of the tech realm. Here are a few of them:
 
-1. [ArkadeONE](https://arkade.one) - Director @ ArkadeONE launches on 24/04/24.
-2. [KaneNET](https://kanenet.cloud) - Service Administrator @ KaneNET launches on 02/02/2024.
-3. [GameNest](https://gamenest.pro) - Director @ GameNest @ Early Development
-4. [Escape Boats](https://escape.boats) - Founder @ Escape Boats @ Financial Advisory
-5. [Webod Store](https://webod.store) - Lead Management @ Webod Store @ Website Development & Tiktok CBP
+1. [ArkadeONE](https://arkade.one) - Director
+2. [KaneNET](https://kanenet.cloud) - Service Administrator
+3. [GameNest](https://gamenest.pro) - Director
+4. [Aero Hosting](https://aerohosting.co.uk) - Sales Manager
+5. [Tide Hosting](https://tidehosting.co) - Support & Marketing Operator
 
 Feel free to explore more about my companies on my [portfolio](https://kanetrussler.com).
 

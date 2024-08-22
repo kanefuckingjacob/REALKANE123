@@ -14,9 +14,6 @@ I am involved with several companies, each contributing to different aspects of 
 
 1. [ArkadeONE](https://arkade.one) - Director
 2. [KaneNET](https://kanenet.cloud) - Service Administrator
-3. [GameNest](https://gamenest.pro) - Director
-4. [Aero Hosting](https://aerohosting.co.uk) - Sales Manager
-5. [Tide Hosting](https://tidehosting.co) - Support & Marketing Operator
 
 Feel free to explore more about my companies on my [portfolio](https://kanetrussler.com).
 

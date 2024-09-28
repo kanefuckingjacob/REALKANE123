@@ -15,7 +15,7 @@ I am involved with several companies, each contributing to different aspects of 
 1. [ArkadeONE](https://arkade.one) - Director
 2. [KaneNET](https://kanenet.cloud) - Service Administrator
 
-Feel free to explore more about my companies on my [portfolio](https://kanetrussler.com).
+Feel free to explore more about my companies on my [portfolio](https://realkane123.github.io/Porfolio).
 
 ## Am I a Professional Developer?
 

@@ -41,4 +41,4 @@ Here are some of the languages and tools I work with:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-Explore more about my projects and contributions on [GitHub](https://github.com/REALKANE123).
+Explore more about my projects and contributions on [GitHub](https://github.com/kanefuckingjacob).
